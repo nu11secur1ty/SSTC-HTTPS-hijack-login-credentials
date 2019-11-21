@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-echo -e "" >> /etc/hosts
+echo -e "0.0.0.0  facebook.com" >> /etc/hosts
 exit 0;
