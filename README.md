@@ -38,6 +38,7 @@ bash sh1m@zu.sh
 ```
 2. -
 - Spoof victim to open your IP ;)
+- exploit... to be continued... 
 ```
 ```
 
