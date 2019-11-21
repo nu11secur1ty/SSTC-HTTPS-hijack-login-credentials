@@ -1,13 +1,19 @@
 #!/usr/bin/python3
-#
+# V.Varbanovski @nu11secur1ty
+
 from flask import Flask,redirect
-print("the domain whish you want to redirect")
-redir = raw_input("Enter your name : ")
+print("the domain which you want to fake\n")
+# Microsoft sucks!
+print("For example: https://microsoft.com/")
+person = input('domain? ')
 
 truti = Flask(__name__)
 @truti.route('/')
 def hello():
-    return redirect("$redir", code=302)
+    return redirect(person, code=302)
+
+print("Your IP please")
+ip = input('the IP?')
 
 if __name__ == '__main__':
-    truti.run(host='0.0.0.0', port=80)
+    truti.run(host=ip, port=80)
