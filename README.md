@@ -30,7 +30,8 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credenti
 - continue..
 -----------------------------------------------------------------------------------------
 # For Windows
-1. -
+
+1. - Preparing for PWN OS fake update
 ```
 git clone https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials.git 
 cd SSTC-HTTPS-login-credentials/sh1mazu_https_fake
