@@ -8,7 +8,7 @@
 `pip install -r requirements.txt`
 
 2. -
-For other Linux distro
+For other Linux distro attackers
 ```
 $ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
 $ cd set
