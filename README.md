@@ -1,3 +1,6 @@
+# WARNING: This is a development project and is not READY for USING ;)
+- BR
+------------------------------------------------------------------------------------------
 # SSTC-login-HTTPS stealing credentials
 - by nu11secur1ty
 
