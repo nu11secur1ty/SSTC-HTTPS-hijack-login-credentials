@@ -1,6 +1,7 @@
 @echo off
 
-SET NEWLINE=^& echo.
+set hostspath=%windir%\System32\drivers\etc\hosts
 
-FIND /C /I "ns1.intranet.de" %WINDIR%\system32\drivers\etc\hosts
-IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^0.0.0.0 ns1.intranet.de>>%WINDIR%\System32\drivers\etc\hosts
+echo 127.0.0.1           facebook.com >> %hostspath%
+echo 127.0.0.1           www.facebook.com >> %hostspath%
+exit
