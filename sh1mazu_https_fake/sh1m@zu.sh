@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 # nu11secur1ty mode 2019
 # DEVELOPMENT by @nu11secur1ty Veresion 4.0 ...
-# version Shimazu 4.0 code name met@rpet@r
+# version Shimazu 0.1 code name https_hijack
 i="0"
 resize -s 25 80
 	clear
