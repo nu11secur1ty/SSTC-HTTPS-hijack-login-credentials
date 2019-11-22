@@ -29,7 +29,8 @@ bash sh1m@zu.sh
      enter
 ```
 
-2. - Creating hosts exploit fakesite.login.com
+2. - Preparing your hosts-file for exploiting of the victim:
+     // fakesite.login.com
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
 bash fakehost.sh
