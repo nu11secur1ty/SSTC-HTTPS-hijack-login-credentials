@@ -11,7 +11,7 @@
      https://github.com/trustedsec/social-engineer-toolkit
 
 - Preparing packages
-For other Linux distro attackers
+For other Linux distro
 ```
 $ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
 $ cd set
