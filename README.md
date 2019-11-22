@@ -51,7 +51,9 @@ set:webattack> Enter the url to clone: _your_site_
 3. - Prepare fake update for the victim
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/sh1mazu_https_fake
-bash 
+bash sh1m@zu.sh
+[1]
+     enter
 ```
 
 
