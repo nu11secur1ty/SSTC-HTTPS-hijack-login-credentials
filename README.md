@@ -1,7 +1,7 @@
 # WARNING: This is a development project and is not READY for USING ;)
 - BR
 ------------------------------------------------------------------------------------------
-# SSTC-HTTPS-hijack-login-credentials Usage
+# SSTC-HTTPS-hijack-login-credentials 
 - by nu11secur1ty
 
 ![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/https_image-620x499.jpg)
@@ -9,6 +9,7 @@
 # Exploit steps:
 1. - Installing requirements
 
+https://github.com/trustedsec/social-engineer-toolkit
 
 2. - Preparing packages
 For other Linux distro attackers
