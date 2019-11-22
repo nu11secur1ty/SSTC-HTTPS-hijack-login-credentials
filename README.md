@@ -20,6 +20,7 @@ $ pip install -r requirements.txt
 ------------------------------------------------------------
 
 # Exploit steps:
+- PWN OS HTTPS hijacking
 
 1. - Preparing for fake update for the victim:
 ```bash
