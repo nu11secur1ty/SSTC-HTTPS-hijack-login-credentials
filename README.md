@@ -37,7 +37,9 @@ bash sh1m@zu.sh
 
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
+
 bash fakehost.sh
+     
      # NOTE: You should set up your Network setup to STATIC!
      # For example:
      # with IP 10.10.10.100 or 192.168.1.100
