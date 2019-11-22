@@ -8,10 +8,12 @@
 
 
 - Installing requirements
-[git](https://github.com/trustedsec/social-engineer-toolkit)
-[curl]()
-[apache2]()
-.....
+. [git](https://github.com/trustedsec/social-engineer-toolkit)
+
+. [curl]()
+
+. [apache2]()
+
 
 ------------------------------------------------------------
 
