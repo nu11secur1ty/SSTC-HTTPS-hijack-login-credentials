@@ -8,15 +8,11 @@
 
 
 - Installing requirements
-     https://github.com/trustedsec/social-engineer-toolkit
+[git](https://github.com/trustedsec/social-engineer-toolkit)
+[curl]()
+[apache2]()
+.....
 
-- Preparing packages
-For other Linux distro
-```
-$ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
-$ cd set
-$ pip install -r requirements.txt
-```
 ------------------------------------------------------------
 
 # Exploit steps:
