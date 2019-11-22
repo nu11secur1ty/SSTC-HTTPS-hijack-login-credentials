@@ -7,20 +7,18 @@
 ![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/https_image-620x499.jpg)
 
 
-1. - Installing requirements
+- Installing requirements
      https://github.com/trustedsec/social-engineer-toolkit
 
-2. - Preparing packages
+- Preparing packages
 For other Linux distro attackers
 ```
 $ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
 $ cd set
 $ pip install -r requirements.txt
 ```
-// For kali 
-```bash 
-setoolkit
-```
+------------------------------------------------------------
+
 # Exploit steps:
 
 1. - Creating hosts exploit facebook.login.com
