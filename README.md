@@ -40,9 +40,12 @@ cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
 bash fakehost.sh
      
      # NOTE: You should set up your Network setup to STATIC!
+     
      # For example:
      # with IP 10.10.10.100 or 192.168.1.100
      # Or it'd depend from the local network in leyar2
+     # WARNING: The host_injector is working only with these IP's from A class of networks
+     //10.10.10.100// and //192.168.1.100//
      
      type the attacker IP 10.10.10.100 # or 192.168.1.100
      
