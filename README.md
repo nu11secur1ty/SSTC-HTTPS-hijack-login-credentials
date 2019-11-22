@@ -39,8 +39,9 @@ bash fakehost.sh
      type the fake domain microsoft.update.com
      enter
 ```
+***SECOND PART***
 
-3. - setoolkit
+3. - setoolkit cloning of real website
 ```bash
 setoolkit
 1) Social-Engineering Attacks
