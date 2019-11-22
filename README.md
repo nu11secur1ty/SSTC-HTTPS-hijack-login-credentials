@@ -39,6 +39,11 @@ bash fakehost.sh
      type the fake domain microsoft.update.com
      enter
 ```
+3. - Exploit the victim
+```bash
+```
+-------------------------------------------------------------
+
 ***SECOND PART***
 
 3. - setoolkit cloning of real website
