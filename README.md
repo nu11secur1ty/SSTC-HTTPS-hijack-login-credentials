@@ -39,8 +39,9 @@ bash fakehost.sh
      type the fake domain microsoft.update.com
      enter
 ```
-3. - Exploit the victim
+3. - Exploit the victim and then ***Stop Apache2***
 ```bash
+systemct stop apache2.service
 ```
 -------------------------------------------------------------
 
