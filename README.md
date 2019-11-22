@@ -31,10 +31,7 @@ bash sh1m@zu.sh
 
 2. - Creating hosts exploit fakesite.login.com
 ```bash
-git clone https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials.git
-cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
-bash fakehost.sh
-     follow the instruction...
+
 ```
 
 3. - setoolkit
