@@ -36,7 +36,12 @@ bash sh1m@zu.sh
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
 bash fakehost.sh
-     type the attacker IP _your_IP
+     # NOTE: You should set up your Network setup to STATIC!
+     # For example:
+     # with IP 10.10.10.100 or 192.168.1.100
+     # Or it'd depend from the local network in leyar2
+     
+     type the attacker IP 10.10.10.100 # or 192.168.1.100
      type the fake domain microsoft.update.com
      enter
 ```
