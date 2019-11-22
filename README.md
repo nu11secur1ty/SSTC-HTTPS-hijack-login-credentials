@@ -31,18 +31,8 @@ bash sh1m@zu.sh
 
 2. - Creating hosts exploit fakesite.login.com
 ```bash
-cd SSTC-HTTPS-hijack-login-credentials/pysstc_redirect
-python3 gaden.py
-     
-     the domain which you want to fake
-
-     For example: https://microsoft.com/
-     domain? microsoft.update.com
-     
-     Your IP please
-     the IP? your local IP - attacker IP
-     
-     
+cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
+bash fakehost.sh
 
 
 ```
