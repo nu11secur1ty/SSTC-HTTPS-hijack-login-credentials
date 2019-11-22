@@ -8,7 +8,7 @@
 =======================================================================================================
 
 
-- Installing requirements and tools:
+***Installing requirements and tools:***
 
 -  [git](https://github.com/trustedsec/social-engineer-toolkit)
 
