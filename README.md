@@ -23,6 +23,7 @@ $ pip install -r requirements.txt
 
 1. - Preparing for fake update for the victim:
 ```bash
+git clone https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials.git
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/sh1mazu_https_fake
 bash sh1m@zu.sh
 [1]
