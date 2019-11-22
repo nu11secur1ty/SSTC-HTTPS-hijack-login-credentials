@@ -30,6 +30,7 @@ bash sh1m@zu.sh
 ```
 
 2. - Preparing your hosts-file for exploiting of the victim:
+     
      // fakesite.login.com
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
