@@ -54,7 +54,12 @@ bash fakehost.sh
      
      enter
 ```
-3. - Sending an email or an extra lure on your victim.
+3. - Sending an email or an extra lure on your victim to injecting her `hosts` file.
+
+
+- **conclusion** and ***NOTE:*** This is the DNS attack which using an injection method against the victim hosts file.
+        In that way, the victim will never know what actually opening on the browser when clicking on your link. The idea is         when the victim clicks on your link and opens the browser is not to see your IP
+        and to see what you want to do it. When the victim opens your `fake domain` no matter what protocol is using `HTTP`         or `HTTPS`. The victim will never understand what actually is hidden behind this domain. ;)
 ```
 Тhat's the hardest part ;)
 I will give you a decision soon, but until then you should create your own!
