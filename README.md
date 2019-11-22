@@ -46,7 +46,7 @@ bash fakehost.sh
 
 ***SECOND PART***
 
-3. - setoolkit cloning of real website
+2. - setoolkit cloning of real website
 ```bash
 setoolkit
 1) Social-Engineering Attacks
@@ -68,11 +68,10 @@ set:webattack> Enter the url to clone: _your_site_
      enter
      enter
 ```
-4. - Prepare fake update for the victim
+2. - Sending a hijack email of the victim.
 ```bash
 
 ```
-
 
 5. - Sending email on the victim
 
