@@ -3,5 +3,7 @@
 # v-1.0
 import ipaddress
 for ip in ipaddress.IPv4Network('192.168.1.0/24'):
-    host = "facebook.login.com >> %hostspath%"
+    host = "facebook.login.com >> %WINDIR%\System32\Drivers\Etc\Hosts"
+    host2 = "microsoft.update.com >> %WINDIR%\System32\Drivers\Etc\Hosts"
     print("echo",'',ip,'','','',host)
+    print("echo",'',ip,'','','',host2)
