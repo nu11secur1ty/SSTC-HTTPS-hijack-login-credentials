@@ -33,8 +33,9 @@ bash sh1m@zu.sh
 ```bash
 cd SSTC-HTTPS-hijack-login-credentials/Attacker/hosts_fake_inject
 bash fakehost.sh
-
-
+     type the attacker IP _your_IP
+     type the fake domain microsoft.update.com
+     enter
 ```
 
 3. - setoolkit
