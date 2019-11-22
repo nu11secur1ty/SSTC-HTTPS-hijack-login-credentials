@@ -7,12 +7,13 @@
 ![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/https_image-620x499.jpg)
 
 
-- Installing requirements
-. [git](https://github.com/trustedsec/social-engineer-toolkit)
+- Installing requirements and tools:
 
-. [curl]()
+. - [git](https://github.com/trustedsec/social-engineer-toolkit)
 
-. [apache2]()
+. - [curl](https://curl.haxx.se/)
+
+. - [apache2](https://httpd.apache.org/docs/2.4/howto/public_html.html)
 
 
 ------------------------------------------------------------
