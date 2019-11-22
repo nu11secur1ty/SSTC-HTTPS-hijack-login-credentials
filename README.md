@@ -48,8 +48,11 @@ set:webattack> Enter the url to clone: _your_site_
      enter
      enter
 ```
-3. - Fake update for victim
-4. - send email
+3. - Prepare fake update for the victim
+
+
+
+4. - Sending email on the victim
 
 
 
