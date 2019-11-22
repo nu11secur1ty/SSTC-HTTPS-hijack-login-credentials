@@ -4,7 +4,7 @@
 # SSTC-HTTPS-hijack-login-credentials 
 - by nu11secur1ty
 
-![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/https_image-620x499.jpg)
+![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/hijacking.jpg)
 
 
 - Installing requirements and tools:
