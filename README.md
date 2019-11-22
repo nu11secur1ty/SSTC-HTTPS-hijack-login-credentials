@@ -9,11 +9,11 @@
 
 - Installing requirements and tools:
 
-. - [git](https://github.com/trustedsec/social-engineer-toolkit)
+.  -  [git](https://github.com/trustedsec/social-engineer-toolkit)
 
-. - [curl](https://curl.haxx.se/)
+.  -  [curl](https://curl.haxx.se/)
 
-. - [apache2](https://httpd.apache.org/docs/2.4/howto/public_html.html)
+.  -  [apache2](https://httpd.apache.org/docs/2.4/howto/public_html.html)
 
 
 ------------------------------------------------------------
