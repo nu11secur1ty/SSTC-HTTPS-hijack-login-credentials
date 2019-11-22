@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 
 # Exploit steps:
 
-1. - Ijecting the hosts file of the victim:
+1. - Injecting the hosts file of the victim:
 ```
 ```
 
