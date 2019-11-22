@@ -51,6 +51,12 @@ bash fakehost.sh
      
      enter
 ```
+3. - Sending an email or an extra lure on your victim.
+```
+Тhat's the hardest part ;)
+I will give you a decision soon, but until then you should create your own!
+There is no easy things in this world. ;)
+```
 - Listening for victim visiting
 
 ```bash
