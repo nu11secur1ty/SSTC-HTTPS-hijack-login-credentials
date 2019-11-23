@@ -22,7 +22,6 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-<a class="green" href="https://github.com/monero-project/kovri-site/blob/master/kovri.i2p/legal/terms.md" target="_blank">
 
 ------------------------------------------------------------
 
