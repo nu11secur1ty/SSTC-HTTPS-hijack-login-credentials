@@ -22,7 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-[Google](http://www.google.com){target="_blank"}
+[Google](target="_blank"(http://www.google.com)
 
 ------------------------------------------------------------
 
