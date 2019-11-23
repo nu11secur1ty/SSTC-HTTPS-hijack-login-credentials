@@ -22,7 +22,6 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-    [link](url)[:target="blank"]
 
 ------------------------------------------------------------
 
