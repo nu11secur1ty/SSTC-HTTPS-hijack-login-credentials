@@ -22,6 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/) 
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 ------------------------------------------------------------
