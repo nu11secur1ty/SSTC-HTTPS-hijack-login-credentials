@@ -22,6 +22,9 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
+<a href="https://github.com/mojombo/github-flavored-markdown/issues/28" target="_blank" rel="nofollow noopener noreferrer">https://github.com/mojombo/github-flavored-markdown/issues/28</a>
+
+
 ------------------------------------------------------------
 
 # Exploit steps:
