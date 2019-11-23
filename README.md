@@ -22,7 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a class="white" href="https://github.com/monero-project/kovri-site/blob/master/kovri.i2p/legal/terms.md" target="_blank">
 
 ------------------------------------------------------------
 
