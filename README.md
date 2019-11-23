@@ -18,6 +18,8 @@
 
 -  [SOCIAL-ENGINEER TOOLKIT (SET)](https://www.trustedsec.com/tools/the-social-engineer-toolkit-set/)
 
+-  [Python](https://www.python.org/)
+
 ------------------------------------------------------------
 
 # Exploit steps:
