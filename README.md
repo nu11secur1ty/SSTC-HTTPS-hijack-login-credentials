@@ -22,7 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-<a href="https://github.com/mojombo/github-flavored-markdown/issues/28" target="_blank" rel="nofollow noopener noreferrer">https://github.com/mojombo/github-flavored-markdown/issues/28</a>
+blah blah <a href="http://htmlpreview.github.com/?https://github.com/<repo>/<path>/blob/master/<my html file.html" target="_blank">comment</a>**
 
 
 ------------------------------------------------------------
