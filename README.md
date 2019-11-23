@@ -23,13 +23,12 @@
 -  [Kali Linux](https://www.kali.org/)
 
 
-
-* www.google.com
-* http://www.google.com
-* [Google](http://www.google.com)
-* [Google][1]
-
-   [1]: http://www.google.com
+var links = document.getElementsByTagName('a');
+for (var i = 0; i < links.length; i++){
+    var parser = document.createElement('a');
+    parser.href = links[i].href;
+    links[i].target="blank";
+}
 
 ------------------------------------------------------------
 
