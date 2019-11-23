@@ -20,6 +20,8 @@
 
 -  [Python](https://www.python.org/)
 
+-  [Kali Linux](https://www.kali.org/)
+
 ------------------------------------------------------------
 
 # Exploit steps:
