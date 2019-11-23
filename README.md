@@ -23,6 +23,9 @@
 -  [Kali Linux](https://www.kali.org/)
 
 
+
+<a href="http://asciidoctor.org/docs/asciidoc-writers-guide/#target-window-and-role-attributes-for-links" class="onebox" target="_blank">http://asciidoctor.org/docs/asciidoc-writers-guide/#target-window-and-role-attributes-for-links <span class="badge badge-notification clicks" title="247 clicks">248</span></a>
+
 ------------------------------------------------------------
 
 # Exploit steps:
