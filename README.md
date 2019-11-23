@@ -23,10 +23,6 @@
 -  [Kali Linux](https://www.kali.org/)
 
 
-This is [a link](http://rubyforge.org) to a page.
-A [link](../test "local URI") can also have a title.
-And [spaces](link with spaces.html)!
-
 ------------------------------------------------------------
 
 # Exploit steps:
