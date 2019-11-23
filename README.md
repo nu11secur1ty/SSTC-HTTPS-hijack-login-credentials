@@ -22,7 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 
 ------------------------------------------------------------
 
