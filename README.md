@@ -22,6 +22,8 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
+[Google](https://google.com" target="_blank)
+
 ------------------------------------------------------------
 
 # Exploit steps:
