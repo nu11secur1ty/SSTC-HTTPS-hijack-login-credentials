@@ -1,1 +1,1 @@
-# This is a preparing, Python script template for the building of the C programs which will be used for exploit of the DNS service!
+# This is a preparing, Python script template for building the C programs which will be used for exploit of the DNS service!
