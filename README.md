@@ -23,12 +23,9 @@
 -  [Kali Linux](https://www.kali.org/)
 
 
-var links = document.getElementsByTagName('a');
-for (var i = 0; i < links.length; i++){
-    var parser = document.createElement('a');
-    parser.href = links[i].href;
-    links[i].target="blank";
-}
+This is [a link](http://rubyforge.org) to a page.
+A [link](../test "local URI") can also have a title.
+And [spaces](link with spaces.html)!
 
 ------------------------------------------------------------
 
