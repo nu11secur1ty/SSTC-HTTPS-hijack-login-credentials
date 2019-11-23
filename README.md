@@ -23,7 +23,7 @@
 -  [Kali Linux](https://www.kali.org/)
 
 
-<a href="https://github.com/nu11secur1ty" rel="nofollow noopener" target="_blank">https://github.com/nu11secur1ty</a>
+<a href="https://github.com/nu11secur1ty" target="_blank">https://github.com/nu11secur1ty</a>
 
 ------------------------------------------------------------
 
