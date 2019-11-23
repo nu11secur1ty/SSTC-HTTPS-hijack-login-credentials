@@ -22,7 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-[Link](https://example.org/ "title" target="_blank")
+[Link](https://example.org/ target="_blank")
 
 ------------------------------------------------------------
 
