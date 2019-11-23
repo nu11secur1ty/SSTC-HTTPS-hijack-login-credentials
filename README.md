@@ -20,7 +20,7 @@
 
 -  [Python](https://www.python.org/)
 
--  [Kali Linux](![]"https://www.kali.org/"target="_blank")
+-  [Kali Linux](https://www.kali.org/["target="_blank")])
 
 ------------------------------------------------------------
 
