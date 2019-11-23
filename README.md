@@ -22,6 +22,15 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
+
+
+* www.google.com
+* http://www.google.com
+* [Google](http://www.google.com)
+* [Google][1]
+
+   [1]: http://www.google.com
+
 ------------------------------------------------------------
 
 # Exploit steps:
