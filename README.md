@@ -22,7 +22,7 @@
 
 -  [Kali Linux](https://www.kali.org/)
 
-[Go to this page](http://somelink.com/?target=_blank)
+[Go to this page](http://somelink.com/? target=_blank)
 
 
 
