@@ -1,13 +1,15 @@
 #!/usr/bin/python3
 # by nu11secut1y 
 # Sniff HTTP login 
+
+import os
 from scapy import all as scapy # packet capture module
 from scapy_http import http # supplementing scapy module by providing http filter
 from urllib.parse import unquote # to make url encoded text into string
  
 # keywords guessing the variable use for username and password
-keywords = ['pass', 'password', 'usr', 'username', 'user', 'pwd', 'ifconfig']
- 
+keywords = ['pass', 'password', 'usr', 'username', 'user', 'pwd']
+os.system("sh ip")
  
 class sniffing():
     def __init__(self, interface, filter=""):
