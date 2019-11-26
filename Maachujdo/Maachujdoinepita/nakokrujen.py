@@ -1,7 +1,10 @@
+#!/usr/bin/python
+# by nu11secur1ty
+import os
 import scapy.all as scapy
 import time
 import argparse
-
+os.system("echo 1 > /proc/sys/net/ipv4/ip_forward")
 
 def get_arguments():
     parser = argparse.ArgumentParser()
