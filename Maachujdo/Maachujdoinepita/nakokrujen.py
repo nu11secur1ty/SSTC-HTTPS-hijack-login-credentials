@@ -6,9 +6,6 @@ import time
 import argparse
 os.system("echo 1 > /proc/sys/net/ipv4/ip_forward")
 
-print("Example:\n")
-print("python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway\n\n\n")
-
 def get_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--target", dest="target",
