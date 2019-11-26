@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# by nu11secur1ty
+# modified by nu11secur1ty
 import os
 import scapy.all as scapy
 import time
