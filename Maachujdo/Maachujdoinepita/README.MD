@@ -2,7 +2,7 @@
 
 ![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Maachujdo/Maachujdoinepita/logo/sniffing-python-yeahhub.jpg)
 
-# Usage
+# Need to install
 - Python3
 ```bash
 apt install python3
@@ -13,3 +13,8 @@ apt install python3
 pip3 install -r kosaka.txt
 ```
 
+# Usage
+```
+python3 nakokrujen.py
+```
+```bash
