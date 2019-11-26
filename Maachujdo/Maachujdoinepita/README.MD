@@ -14,7 +14,11 @@ pip3 install -r kosaka.txt
 ```
 
 # Usage
-```
+```bash
 python3 nakokrujen.py
+Example:
+python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
 ```bash
+
+```
