@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-import shifhttp
- 
+import k9
+iface = input("Type the sniff interface\n")
 try:
-    k9.sniffing('ens38')
+    k9.sniffing(iface)
  
 except KeyboardInterrupt:
     print('Exit...')
