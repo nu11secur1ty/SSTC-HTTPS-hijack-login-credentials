@@ -9,7 +9,13 @@ from urllib.parse import unquote # to make url encoded text into string
  
 # keywords guessing the variable use for username and password
 keywords = ['pass', 'password', 'usr', 'username', 'user', 'pwd']
+
+print("Your local IP is\n")
+os.system("hostname -I | awk '{print $1}'")
  
+print("Your active interface is\n")
+os.system("ip link show")
+
 class sniffing():
     def __init__(self, interface, filter=""):
         self.sniffs(interface, filter)
