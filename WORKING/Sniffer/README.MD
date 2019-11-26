@@ -1,6 +1,11 @@
 # Usage
 - Python3
-1. Install requirements
+```bash
+apt install python3
+```
+- Install requirements
+
 ```bash
 pip3 install -r kosaka.txt
 ```
+
