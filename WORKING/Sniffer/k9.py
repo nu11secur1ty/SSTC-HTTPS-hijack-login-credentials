@@ -3,7 +3,7 @@
 import shifhttp
 iface = input("Type the sniffing interface\n")
 try:
-    k9.sniffing(iface)
+    snifhttp.sniffing(iface)
  
 except KeyboardInterrupt:
     print('Exit...')
