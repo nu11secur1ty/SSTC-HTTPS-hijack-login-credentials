@@ -6,7 +6,7 @@ from scapy_http import http # supplementing scapy module by providing http filte
 from urllib.parse import unquote # to make url encoded text into string
  
 # keywords guessing the variable use for username and password
-keywords = ['pass', 'password', 'usr', 'username', 'user', 'pwd']
+keywords = ['pass', 'password', 'usr', 'username', 'user', 'pwd', 'ifconfig']
  
  
 class sniffing():
