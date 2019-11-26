@@ -9,7 +9,6 @@ from urllib.parse import unquote # to make url encoded text into string
  
 # keywords guessing the variable use for username and password
 keywords = ['pass', 'password', 'usr', 'username', 'user', 'pwd']
-os.system("sh ip")
  
 class sniffing():
     def __init__(self, interface, filter=""):
