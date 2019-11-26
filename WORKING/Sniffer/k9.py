@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-import k9
-iface = input("Type the sniff interface\n")
+# by nu11secur1ty
+import shifhttp
+iface = input("Type the sniffing interface\n")
 try:
     k9.sniffing(iface)
  
