@@ -13,6 +13,7 @@ apt install python3-pip
 - Install requirements
 
 ```bash
+pip install -r kosaka.txt
 pip3 install -r kosaka.txt
 ```
 
