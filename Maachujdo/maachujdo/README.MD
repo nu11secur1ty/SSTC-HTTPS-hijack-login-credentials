@@ -41,6 +41,13 @@ pip install -i https://test.pypi.org/simple/ maachujdo
 ```bash 
 from maachujdo import kusupraishchesaneebesh
 ```
+- or 
+```python
+#!/usr/bin/python3
+from maachujdo import kusupraishchesaneebesh
+print("Yeah you are a samurai ;)")
+```
+
 ---------------------------------------------------------
 - link:
 `https://test.pypi.org/project/maachujdo/`
