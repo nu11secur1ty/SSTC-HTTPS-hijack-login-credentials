@@ -9,4 +9,4 @@ try:
     snifhttp.sniffing(iface)
  
 except KeyboardInterrupt:
-    print('Exit...')
+    print(Fore.YELLOW + 'Exit...')
