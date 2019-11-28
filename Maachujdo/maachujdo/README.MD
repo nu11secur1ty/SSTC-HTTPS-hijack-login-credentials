@@ -37,3 +37,7 @@ Test
 ```bash 
 pip install -i https://test.pypi.org/simple/ maachujdo
 ```
+- link:
+`https://test.pypi.org/project/maachujdo/`
+
+# Have fun ;)
