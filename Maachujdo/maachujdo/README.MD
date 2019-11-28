@@ -32,7 +32,8 @@ Test
 ;)
 
 --------------------------------------------
-# Install the module "maachujdo"
+# Direct usage
+- Installing the module "machado"
 ```bash 
 pip install -i https://test.pypi.org/simple/ maachujdo
 ```
