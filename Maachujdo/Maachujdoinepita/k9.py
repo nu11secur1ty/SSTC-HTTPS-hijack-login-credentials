@@ -4,9 +4,9 @@ import snifhttp
 import colorama
 from colorama import Fore, Style
 
-iface = input("Type the sniffing interface\n")
+iface = input(Fore.GREEN + "Type the sniffing interface\n")
 try:
-    snifhttp.sniffing(iface)
+    snifhttp.sniffing(Fore.YELLOW + iface)
  
 except KeyboardInterrupt:
-    print(Fore.YELLOW + 'Exit...')
+    print('Exit...')
