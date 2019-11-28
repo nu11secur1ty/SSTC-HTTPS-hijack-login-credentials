@@ -53,10 +53,10 @@ try:
         spoof(options.target, options.gateway)
         spoof(options.gateway, options.target)
         sent_packets_count += 2
-        print(Fore.BLUE + f"\r[+] Packets sent: {sent_packets_count}", end="")
+        print(Fore.RED + f"\r[+] Packets sent: {sent_packets_count}", end="")
         time.sleep(2)
 except KeyboardInterrupt:
-    print(Fore.GREEN + "\nCTRL+C pressed .... Reseting ARP tables. Please wait")
+    print(Fore.YELLOW + "\nCTRL+C pressed .... Reseting ARP tables. Please wait")
     restore(options.target, options.gateway)
     restore(options.gateway, options.target)
-    print(Fore.RED + "\nARP table restored. Quiting")
+    print(Fore.GREEN + "\nARP table restored. Quiting")
