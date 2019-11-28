@@ -32,8 +32,15 @@ Test
 ;)
 
 --------------------------------------------
+
 # Direct usage
-- Installing the module "machado"
+
+- Need packages
+```bash
+pip install -r kosaka.txt
+pip3 install -r kosaka.txt
+```
+- Installing the module "maachujdo"
 ```bash 
 pip install -i https://test.pypi.org/simple/ maachujdo
 ```
