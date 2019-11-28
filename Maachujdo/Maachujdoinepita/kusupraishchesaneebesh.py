@@ -7,7 +7,7 @@ from colorama import Fore, Style
 iface = input(Fore.GREEN + "Type the sniffing interface\n")
 try:
     snifhttp.sniffing(iface)
-    print(Fore.YELLOW + "snifhttp.sniffing")
+    print(Fore.YELLOW + "Exit...")
  
 except KeyboardInterrupt:
-    print('Exit...')
+    print("Exit...")
