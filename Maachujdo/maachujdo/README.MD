@@ -47,7 +47,10 @@ from maachujdo import kusupraishchesaneebesh
 from maachujdo import kusupraishchesaneebesh
 print("Yeah you are a samurai ;)")
 ```
-
+# Uninstall the module
+```bash
+pip uninstall maachujdo
+```
 ---------------------------------------------------------
 - link:
 `https://test.pypi.org/project/maachujdo/`
