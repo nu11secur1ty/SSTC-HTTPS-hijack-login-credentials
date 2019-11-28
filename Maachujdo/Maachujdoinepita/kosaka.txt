@@ -1,6 +1,5 @@
 scapy
 scapy_http
 scapy-ssl_tls
-pycrypto>=2.6
-scapy>=2.2.0,<2.3.3
-tinyec>=0.3.1
+pycrypto
+tinyec
