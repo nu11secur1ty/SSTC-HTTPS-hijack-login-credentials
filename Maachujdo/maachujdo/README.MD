@@ -1,6 +1,6 @@
 # Maaachujdo
 
-[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Maachujdo/Maachujdoinepita/logo/sniffing-python-yeahhub.jpg)](https://www.youtube.com/watch?v=aQvrvYHXolQ)
+[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Maachujdo/maachujdo/logo/sniffing-python-yeahhub.jpg)](https://www.youtube.com/watch?v=aQvrvYHXolQ)
 
 
 # Need to install
