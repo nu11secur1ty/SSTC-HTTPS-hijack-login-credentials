@@ -37,6 +37,11 @@ Test
 ```bash 
 pip install -i https://test.pypi.org/simple/ maachujdo
 ```
+- test
+```bash 
+from maachujdo import kusupraishchesaneebesh
+```
+---------------------------------------------------------
 - link:
 `https://test.pypi.org/project/maachujdo/`
 
