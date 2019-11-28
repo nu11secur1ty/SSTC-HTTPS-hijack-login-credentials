@@ -56,7 +56,7 @@ try:
         print(Fore.BLUE + f"\r[+] Packets sent: {sent_packets_count}", end="")
         time.sleep(2)
 except KeyboardInterrupt:
-    print("\nCTRL+C pressed .... Reseting ARP tables. Please wait")
+    print(Fore.GREEN + "\nCTRL+C pressed .... Reseting ARP tables. Please wait")
     restore(options.target, options.gateway)
     restore(options.gateway, options.target)
-    print("\nARP table restored. Quiting")
+    print(Fore.RED + "\nARP table restored. Quiting")
