@@ -1,5 +1,5 @@
 import scapy
-from scapy.layers.ssl_tls import *
+from scapy-ssl_tls import *
 import socket
 
 target = ('target.local',443)
