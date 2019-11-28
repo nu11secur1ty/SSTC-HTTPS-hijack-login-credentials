@@ -1,9 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # modified by nu11secur1ty
 import os
 import scapy.all as scapy
 import time
 import argparse
+import colorama
+from colorama import Fore, Style
+
 os.system("echo 1 > /proc/sys/net/ipv4/ip_forward")
 
 def get_arguments():
@@ -53,7 +56,7 @@ try:
         print(f"\r[+] Packets sent: {sent_packets_count}", end="")
         time.sleep(2)
 except KeyboardInterrupt:
-    print("\nCTRL+C pressed .... Reseting ARP tables. Please wait")
+    print(Fore.BLUE +"\nCTRL+C pressed .... Reseting ARP tables. Please wait")
     restore(options.target, options.gateway)
     restore(options.gateway, options.target)
     print("\nARP table restored. Quiting")
