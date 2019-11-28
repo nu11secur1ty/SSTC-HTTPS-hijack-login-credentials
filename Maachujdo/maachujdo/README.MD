@@ -30,3 +30,9 @@ python3 kusupraishchesaneebesh.py
 3.
 Test 
 ;)
+
+--------------------------------------------
+# Install the module "maachujdo"
+```bash 
+pip install -i https://test.pypi.org/simple/ maachujdo
+```
