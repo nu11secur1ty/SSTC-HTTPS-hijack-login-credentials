@@ -7,13 +7,11 @@
 - Python3
 ```bash
 apt install python3
-apt install python-pip
 apt install python3-pip
 ```
 - Install requirements
 
 ```bash
-pip install -r kosaka.txt
 pip3 install -r kosaka.txt
 ```
 
@@ -37,12 +35,11 @@ Test
 
 - Need packages
 ```bash
-pip install -r kosaka.txt
 pip3 install -r kosaka.txt
 ```
 - Installing the module "maachujdo"
 ```bash 
-pip install -i https://test.pypi.org/simple/ maachujdo
+python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
 ```
 - test
 ```bash 
