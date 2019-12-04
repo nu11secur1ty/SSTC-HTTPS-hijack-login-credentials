@@ -43,7 +43,8 @@ python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
 ```
 - test
 ```bash 
-from maachujdo import kusupraishchesaneebesh
+python3
+>>>from maachujdo import kusupraishchesaneebesh
 ```
 - or 
 ```python
@@ -51,6 +52,13 @@ from maachujdo import kusupraishchesaneebesh
 from maachujdo import kusupraishchesaneebesh
 print("Yeah you are a samurai ;)")
 ```
+- then
+```bash
+git clone https://github.com/nu11secur1ty/maachujdo.git
+cd maachujdo/maachujdo_module/
+python3 nakokrujen.py
+```
+
 # Uninstall the module
 ```bash
 pip uninstall maachujdo
