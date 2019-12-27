@@ -1,6 +1,3 @@
-# WARNING: This is a development project and is not READY for USING ;)
-- BR
-------------------------------------------------------------------------------------------
 # SSTC-HTTPS-hijack-login-credentials 
 - by nu11secur1ty
 
