@@ -108,9 +108,7 @@ set:webattack> Enter the url to clone: _your_site_
      enter
 ```
 2. - Sending a hijack email of the victim.
-```bash
-
-```
+[![]()](https://www.youtube.com/watch?v=943zS0i1GJE)
 
 3. - Receiving the hits from browser of the victim
 
