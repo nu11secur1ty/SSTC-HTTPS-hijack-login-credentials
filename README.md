@@ -108,7 +108,8 @@ set:webattack> Enter the url to clone: _your_site_
      enter
 ```
 2. - Sending a hijack email of the victim.
-[![]()](https://www.youtube.com/watch?v=943zS0i1GJE)
+[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/fish.png)](https://www.youtube.com/watch?v=943zS0i1GJE)
+
 
 3. - Receiving the hits from browser of the victim
 
