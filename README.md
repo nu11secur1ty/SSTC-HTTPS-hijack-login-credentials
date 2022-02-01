@@ -1,7 +1,7 @@
 # SSTC-Social Security Tracking Connections-HTTPS-hijack-login-credentials 
 - by nu11secur1ty
 
-[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/hijacking.jpg)](https://www.youtube.com/watch?v=XYSFjy8_g6k)
+[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/hijacking.jpg)](https://streamable.com/3hbijb)
 =======================================================================================================
 
 
