@@ -6,7 +6,7 @@
   <summary>Click to expand!</summary>
   
 ## 2022
-- Soon with more stable and flexible techniques that will bypass Windows Defender =)
+- Soon with more stable and flexible techniques that will bypass Windows Defender and more... =)
 - BR
 </details>
 
