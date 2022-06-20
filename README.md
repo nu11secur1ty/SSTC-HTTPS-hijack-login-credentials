@@ -3,7 +3,7 @@
 
 ## The Latest information:
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to read the latest news!</summary>
   
 ## 2022
 - Soon with more stable and flexible techniques that will bypass Windows Defender and more... =)
