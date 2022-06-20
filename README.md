@@ -2,18 +2,12 @@
 - by nu11secur1ty
 
 ## The Latest information:
-[href](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Docs/Information.MD)
-
-
-## The Latest information:
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+## 2022
+- Soon with more stable and flexible techniques that will bypass Windows Defender =)
+- BR
 </details>
 
 
