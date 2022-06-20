@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# V.Varbanovski @nu11secur1ty
+# Author @nu11secur1ty
 
 from flask import Flask,redirect
 print("the domain which you want to fake\n")
