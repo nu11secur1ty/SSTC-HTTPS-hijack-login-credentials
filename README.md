@@ -5,6 +5,18 @@
 [href](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Docs/Information.MD)
 
 
+## The Latest information:
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
 [![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/hijacking.jpg)](https://streamable.com/3hbijb)
 =======================================================================================================
 
